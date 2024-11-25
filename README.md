@@ -38,3 +38,23 @@ You are tasked with creating a **robust Teacher Portal** using **HTML/JS**. The 
 ## ✨ Summary
 This portal aims to streamline the teacher’s workflow, from logging in to managing student information. With a simple yet powerful interface, teachers will have the tools they need to manage their students effectively.
 
+
+---
+
+## 👨‍💻 About Me
+
+### **Sameer Sinha**  
+I am a passionate **Frontend/UI-UX Developer** with over **2+ years of experience** in building and designing visually appealing and user-friendly websites and applications. I specialize in creating responsive, efficient, and aesthetically pleasing interfaces.
+
+### **Skills:**
+- **HTML5** 📝
+- **CSS3** 🎨
+  - **CSS Libraries**: Bootstrap, Tailwind
+  - **CSS Preprocessors**: SASS, LESS
+- **JavaScript** 💻
+  - **JavaScript Libraries**: jQuery
+  - **JavaScript Frameworks**: React
+- **Other Skills**: Dart, Canva 🎨
+
+Feel free to connect with me or explore my work! 😊
+- **anuragsinha.20411@gmail.com**
