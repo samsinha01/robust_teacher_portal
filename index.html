@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+
+        <link rel="stylesheet" href="bootstrap/bootstrap5.css">
+        <script src="bootstrap/bootstrap5.js" defer></script>
+
+        <link rel="stylesheet" href="css/style.css">
+        <script src="js/main.js" defer></script>
+    </head>
+    <body>
+        <div class="login-section">
+            <h2 class="text-danger mb-3">tailwebs.</h2>
+            <div class="login-form">
+                <div>
+                    <div>
+                        <label for="username">Username</label>
+                        <input type="text" id="username" class="form-control">
+                    </div>
+                    <div>
+                        <label for="pwd">Password</label>
+                        <input type="password" id="pwd" class="form-control">
+                    </div>
+
+                    <p class="text-end"><a href="#!" class="text-none">Forget Password?</a></p>
+                </div>
+                <div class="text-center">
+                    <button id="loginButton" class="lgn-btn py-2 px-5 bg-dark text-white">Login</button>
+                </div>
+
+                <p id="errorMessage" style="color: red; text-align: center; margin-top: 10px;"></p>
+            </div>
+        </div>   
+    </body>
+</html>
